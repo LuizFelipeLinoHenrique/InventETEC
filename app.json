@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "appTarefas",
-    "slug": "appTarefas",
+    "name": "inventETEC",
+    "slug": "inventETEC",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
