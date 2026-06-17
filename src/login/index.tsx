@@ -25,7 +25,7 @@ export default function LoginScreen({ navigation }: { navigation: any }) {
       <View style={styles.header}>
         <Ionicons name="school" size={80} color="#0052CC" />
         <Text style={styles.title}>InventETEC</Text>
-        <Text style={styles.subtitle}>Gestão de Patrimônio Escolar</Text>
+        <Text style={styles.subtitle}>Gestão de Inventário Escolar</Text>
       </View>
       
       <View style={styles.inputContainer}>
